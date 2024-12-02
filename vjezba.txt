@@ -1,0 +1,2 @@
+Ovo je vjezba za rad s Git-om.
+touch vjetba.tx kreirali smo txt. file
